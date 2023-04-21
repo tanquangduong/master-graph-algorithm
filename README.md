@@ -44,4 +44,8 @@ Some important notions, as follows:
 - Betweenness
 - Fairness and closeness
 - Eigenvector centrality
+
+## Fraud Analysis in social network
+- Scoring negative outcomes
+- Degree if suspicion
 - 
